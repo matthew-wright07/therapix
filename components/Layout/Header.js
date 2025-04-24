@@ -13,8 +13,7 @@ export default function Header(){
                 <a href="" className="hover:text-primary transition duration-500">Contact</a>
             </div>
             <div className="flex gap-2 justify-center items-center">
-                <a href="" className="h-10 w-20 border border-dark flex items-center justify-center rounded-lg text-dark hover:scale-110 transition duration-500">Sign Up</a>
-                <a href="" className="h-10 w-20 bg-primary flex items-center justify-center rounded-lg text-white hover:scale-110 transition duration-500">Login</a>
+                <a href="" className="h-10 w-20 bg-primary flex items-center justify-center rounded-lg text-white hover:scale-110 transition duration-500">Start</a>
             </div>
         </div>
     )
