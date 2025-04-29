@@ -3,7 +3,6 @@
 import { usePathname } from 'next/navigation'
 import { useEffect, useState } from 'react';
 import Blog from '@/components/Blog/Blog';
-import Start from '@/components/Other/Start';
 import MoreBlogs from '@/components/Blog/MoreBlogs';
 
 export default function BlogPage(){
