@@ -7,7 +7,7 @@ export default function Header(){
     return (
         <div className="h-22 px-12 flex justify-between items-center">
             <a href="/" className="flex gap-2 items-center hover:scale-110 transition duration-500">
-                <img src="/logo.svg" className="h-9"/>
+                <img src="/logo.svg" className="h-9" alt="Therapix Logo"/>
                 <h1 className="text-primary font-bold text-3xl">Therapix</h1>
             </a>
             <div className="flex gap-4 justify-center items-center text-dark">
